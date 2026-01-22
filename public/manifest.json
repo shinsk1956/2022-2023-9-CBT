@@ -1,0 +1,12 @@
+[
+  { "file": "data/kor_2022.csv", "name": "국어 2022" },
+  { "file": "data/kor_2023.csv", "name": "국어 2023" },
+  { "file": "data/social_2022.csv", "name": "사회복지학개론 2022" },
+  { "file": "data/social_2023.csv", "name": "사회복지학개론 2023" },
+  { "file": "data/eng_2022.csv", "name": "영어 2022" },
+  { "file": "data/eng_2023.csv", "name": "영어 2023" },
+  { "file": "data/korhs_2022.csv", "name": "한국사 2022" },
+  { "file": "data/korhs_2023.csv", "name": "한국사 2023" },
+  { "file": "data/hjb_2022.csv", "name": "행정법총론 2022" },
+  { "file": "data/hjb_2023.csv", "name": "행정법총론 2023" }
+]
